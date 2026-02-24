@@ -1,0 +1,9 @@
+node_modules/
+react-backend/node_modules/
+react-frontend/node_modules/
+react-backend/.env
+.env
+build/
+*.log
+.DS_Store
+Thumbs.db
